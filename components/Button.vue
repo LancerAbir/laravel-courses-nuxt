@@ -1,3 +1,3 @@
 <template>
-    <button class="bg-blue-500" type="button">Home</button>
+    <button class="bg-blue-500" type="button">Simple Button Components</button>
 </template>
